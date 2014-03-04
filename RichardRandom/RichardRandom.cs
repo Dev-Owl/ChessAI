@@ -16,7 +16,7 @@ namespace AI
 
         #region IAI Members
 
-        public void Init()
+        public void Init(MoveGenerator EngineMoveGenerator)
         {
             throw new NotImplementedException();
         }
